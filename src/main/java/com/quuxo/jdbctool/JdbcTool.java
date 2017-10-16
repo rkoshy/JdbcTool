@@ -1,6 +1,8 @@
 /**
  * JdbcTool: Command line pain relief for JDBC databases.
  * Copyright (C) 2007, Quuxo Software.
+ * JdbcTool 2.0 - XLS, CSV, TEXT, HTML output and multi-tab features
+ * Copyright 2009-2017 Renny Koshy
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
